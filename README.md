@@ -31,6 +31,7 @@ Each folder focuses on a specific algorithm or concept, including theoretical ex
 | `13_DBSCAN` | 🌀 Density-Based Spatial Clustering (DBSCAN) |
 | `14_PCA` | 🎯 Principal Component Analysis for dimensionality reduction |
 | `exercise` | 🧩 Practice exercises and applied examples |
+| `house_price_pred` | 🧩 house price prediction project  |
 
 ---
 
